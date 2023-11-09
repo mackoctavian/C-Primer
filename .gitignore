@@ -1,0 +1,3 @@
+#ignore all files with the folowing extensions
+*.exe 
+*.out
