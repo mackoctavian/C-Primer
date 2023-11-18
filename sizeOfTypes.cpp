@@ -13,6 +13,7 @@ int main() {
     std::cout << "The size of float: " << sizeof(float) << std::endl;
     std::cout << "The size of double: " << sizeof(double) << std::endl;
     std::cout << "The size of wchar_t: " << sizeof(wchar_t) << std::endl;
+    std::cout << "The size of bool: " << sizeof(bool) << std::endl;
 
     //Returning 0
     return 0;
